@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model dan cache besar
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Sistem & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
